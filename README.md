@@ -1,7 +1,7 @@
 # 📊 Sistema de Automação de Relatórios Empresariais com Python e Excel
 
 > Projeto de Portfólio — Atividade Extra-Curricular  
-> Curso: [Nome do Curso] | Período: [Período] | Aluno(a): [Nome do Aluno]
+> Curso: Sistemas de Informação | Período: 3° | Aluno(a): Camila Santos Nascimento
 
 ---
 
